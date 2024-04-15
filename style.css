@@ -1,0 +1,16 @@
+
+
+
+.card_none{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 200px;
+    font-family:"Patrick Hand SC", sans-serif;
+    font-size: 1.7rem;
+}
+.card_none * {
+    color:dimgray;
+    mix-blend-mode: inherit;
+    line-height: 0.8;
+}
